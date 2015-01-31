@@ -1,0 +1,11 @@
+{
+  "name": "simple-crm",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.10.2",
+    "express": "^4.11.1",
+    "mongoose": "^3.8.22",
+    "morgan": "^1.5.1"
+  }
+}
